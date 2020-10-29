@@ -1,0 +1,3 @@
+# GET ALL IMAGES FORM PIXABY API
+
+GET https://pixabay.com/api/?key=18882340-bf3fa37e08ad50325196f83b3&q=&image_type=photo
